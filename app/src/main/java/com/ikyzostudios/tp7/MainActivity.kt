@@ -57,6 +57,8 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
+
         }
 
                 binding.clear.setOnClickListener {
